@@ -14,7 +14,9 @@
 
 ### About Me 🚀
 🎓 I'm an engineer. </br>
-👨‍💻 I’m currently working on my new project Justine *[AI Assistant]*. </br>
+🌱 I’m interested in Web Development, Application Development. </br>
+💞️ I’m looking to collaborate on OpenSourceProjects, TeamProjects. </br>
+
 
 ![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=anshulmalviya1&show_icons=true&hide_border=true)
 <br />
