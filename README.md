@@ -1,4 +1,4 @@
-##  <h1 align="center"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm [Anshul!](https://anshulmalviya1.github.io) </h1>
+##  <h1 align="center"> Hey <img src="https://www.pngmart.com/files/21/Hello-Vector-PNG-Image.png" width="70px">, I'm [Anshul!](https://anshulmalviya1.github.io) </h1>
 
 <a href="https://www.linkedin.com/in/anshul-malviya-b21359201/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
