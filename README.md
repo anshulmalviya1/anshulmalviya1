@@ -18,6 +18,14 @@
 💞️ I’m looking to collaborate on OpenSourceProjects, TeamProjects. </br>
 
 
-![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=anshulmalviya1&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anshulmalviya1.anshulmalviya1)
+
+<p align="center">
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=tusharsadhwani&theme=react&show_icons=true">
+</p>
+
+<!--
+<p align="center">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tusharsadhwani&branding=false&style=--header-bg-color:%2320232a;--bg-color:%2320232a;--border-radius:10px;--badge-bg-color:%232c303a;--badge-text-color:%23fff;--border:1px%20solid%20%23ccc;--border-radius:6px" width=495>
+</p>
+-->
