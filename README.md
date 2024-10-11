@@ -13,6 +13,6 @@
 <br />
 
 ### About Me 🚀
-🎓 Software Engineer. </br>
+👨🏻‍💻 Software Engineer. </br>
 🌱 I’m interested in Web Development, Mobile App Development. </br>
 💞️ I’m looking to collaborate on OpenSourceProjects, TeamProjects. </br>
